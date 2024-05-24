@@ -1,0 +1,12 @@
+[general]
+name=GSIxml2tiff
+description=Converting xml files or zipped xml files to geotiff laster file
+version=0.1
+qgisMinimumVersion=3.0
+
+[author]
+name=Masataka SHIGA
+email=shigamasataka@gmail.com
+
+[about]
+about=This plugin is designed to import DEM XML files from GSI and convert them to GeoTIFF format.
